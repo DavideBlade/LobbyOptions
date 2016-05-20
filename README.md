@@ -1,0 +1,2 @@
+# LobbyOptions
+LobbyOptions plugin
