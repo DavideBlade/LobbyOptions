@@ -1,2 +1,2 @@
 # LobbyOptions plugin
-#####LobbyOptions site: https://www.spigotmc.org/resources/lobbyoptions.24730/
+##### LobbyOptions page: https://www.spigotmc.org/resources/lobbyoptions.24730/
